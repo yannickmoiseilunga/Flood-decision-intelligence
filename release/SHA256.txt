@@ -1,0 +1,2 @@
+FloodDecisionIntelligence-v1.1.zip
+SHA256 145e45471e1f079795dbe053f6428712edf149f9bf585d2ff7365562dd04b073
